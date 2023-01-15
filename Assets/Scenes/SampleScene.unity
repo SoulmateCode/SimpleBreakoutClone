@@ -5385,7 +5385,7 @@ MonoBehaviour:
   oneBlock: 60
   twoBlock: 0
   threeBlock: 0
-  ballsStart: 99
+  ballsStart: 3
   brickTypes:
   - {fileID: 5158710919165178404, guid: cfcc1609abc115d4288feb3f76729799, type: 3}
   - {fileID: 5158710919165178404, guid: 29250f295fcc88e40ac7ab11f6f0d40f, type: 3}
